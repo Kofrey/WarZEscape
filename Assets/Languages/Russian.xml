@@ -1,0 +1,19 @@
+<languages>
+        <Russian>
+            <string name="info">Сделано kofy для конкурса грантов ЯЮниор</string>
+            <string name="play_but">Играть</string>
+	    <string name="question">Ваша задача выжить. Покиньте город, доживите до утра или найдите безопасное место. Не приближайтесь к заражённым!</string>
+	    <string name="lang">рус</string>
+	    <string name="question_move">движение &#xd;&#xa;&#xd;&#xa; ускорение &#xd;&#xa;&#xd;&#xa; действие(в разраб.)</string>
+	    <string name="congrats">Вы пережили эту ночь. Что принесёт новый день?&#xd;&#xa;&#xd;&#xa;</string>
+	    <string name="game_over">Смэрть.&#xd;&#xa;&#xd;&#xa;Вы погибли&#xd;&#xa;&#xd;&#xa;</string>
+	    <string name="game_overA">Безнадежно</string>
+	    <string name="game_overB">Not bad</string>
+	    <string name="game_overC">У вас был шанс!</string>
+	    <string name="congrA">Вам удалось сохранить физическое здоровье.</string>
+	    <string name="congrB">Этой ночью вы пострадали, здоровье можно будет восстановить.</string>
+	    <string name="congrC">Вы серьёзно ранены, ваша жизнь под угрозой!</string>
+	    <string name="menu_button">Меню</string>
+	    <string name="restart_button">Ещё раз</string>
+        </Russian>
+</languages>

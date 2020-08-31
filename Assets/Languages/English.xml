@@ -1,0 +1,19 @@
+<languages>
+        <English>
+            <string name="info">Created by kofy for ijunior grant competition</string>
+            <string name="play_but">Play</string>
+	    <string name="question">Your task is to survive. Leave the city, live until the morning, or find a safe place. Do not approach the infected!</string>
+	    <string name="lang">eng</string>
+	    <string name="question_move">move&#xd;&#xa;&#xd;&#xa;dash&#xd;&#xa;&#xd;&#xa;action (in dev)</string>
+	    <string name="congrats">You have survived this night. What a new day will bring?&#xd;&#xa;&#xd;&#xa;</string>
+	    <string name="game_over">Game over.&#xd;&#xa;&#xd;&#xa;You died&#xd;&#xa;&#xd;&#xa;</string>
+	    <string name="game_overA">Could've been better</string>
+	    <string name="game_overB">Not bad at all</string>
+	    <string name="game_overC">That's impressive!</string>
+	    <string name="congrA">You have managed to maintain your physical health.</string>
+	    <string name="congrB"> You got hurt tonight, but health can be restored.</string>
+	    <string name="congrC">You are seriously injured, your life is at stake!</string>
+	    <string name="menu_button">Menu</string>
+	    <string name="restart_button">Restart</string>
+        </English>
+</languages>
